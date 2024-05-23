@@ -1,9 +1,6 @@
 ## Hi there 👋
-
-
-**smahfuz/smahfuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+- I am mahfuz Ahammed. 
+- B.Sc in Computer Science And Engineering at Dhaka University Of Engineering And Technology (DUET).
 
 - 🔭 I’m currently working on vaious kind of technology and specilized on ASP.Net Core and MERN( mongoDB, ExpresJS, ReactJS and NodeJS) and Django Framework.
 - 🌱 I’m currently learning Machine Learnig Data Science  and AI. This field very interesting and thats why i still learning besides of development.
