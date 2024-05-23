@@ -1,4 +1,5 @@
-##👋Hello, I'm ##Mahfuz Ahammed
+##👋Hello, I'm Mahfuz Ahammed
+
 - B.Sc in Computer Science And Engineering at Dhaka University Of Engineering And Technology (DUET).
 
 - 🔭 I’m currently working on vaious kind of technology and specilized on ASP.Net Core and MERN( mongoDB, ExpresJS, ReactJS and NodeJS) and Django Framework.
