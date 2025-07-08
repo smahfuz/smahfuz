@@ -14,7 +14,6 @@ Academic Full-Stack Projects: Developed web apps with MERN (MongoDB, Express, Re
 
 Mobile Development: Built Android apps with Java (personal projects), focusing on UI/UX and API integration.
 
-On-Site Experience: 1+ year of hands-on experience in .NET development using Bootstrap, AJAX, and modern web stacks.
 
 🌱 My Learning & Interests
 
